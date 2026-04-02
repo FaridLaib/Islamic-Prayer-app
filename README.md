@@ -189,4 +189,11 @@ Settings are stored in NVS and survive future firmware updates (as long as the N
 
 
 ![Display](Images/IMG_3950.PNG)
+![Display](Images/IMG_3951.PNG)
+![Display](Images/IMG_3955.jpeg)
+![Display](Images/IMG_3956.jpeg)
+![Display](Images/IMG_3957.jpeg)
+![Display](Images/IMG_3958.jpeg)
+![Display](Images/IMG_3959.jpeg)
+![Display](Images/IMG_4048.jpeg)
 
