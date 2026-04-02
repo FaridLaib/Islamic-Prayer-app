@@ -3,6 +3,8 @@
 A smart desk clock for an 800×480 RGB display, built on an ESP32-S3 with 16MB flash. It shows the current time, Islamic prayer times, live weather, and plays an adhan (call to prayer) through a MAX98357A I2S amplifier — all behind a custom full-screen background image loaded from flash.
 
 Exact model: https://github.com/VIEWESMART/UEDX80480070ESP32-7inch-Touch-Display
+
+Purchase from here: (not affiliated)
 https://www.aliexpress.us/item/3256807528358359.html?spm=a2g0o.order_list.order_list_main.10.5da81802e2ZPok&gatewayAdapt=glo2usa
 
 ---
@@ -184,3 +186,7 @@ Any standard mono or stereo MP3 works. Shorter files (under ~2 MB) load faster f
 6. Tap **Save & Connect** — the device restarts and connects automatically
 
 Settings are stored in NVS and survive future firmware updates (as long as the NVS partition is not erased).
+
+
+![Display](images/IMG_3950.PNG)
+
