@@ -1,8 +1,10 @@
 # ESP32-S3 Prayer Clock
 
 A smart desk clock for an 800×480 RGB display, built on an ESP32-S3 with 16MB flash. It shows the current time, Islamic prayer times, live weather, and plays an adhan (call to prayer) through a MAX98357A I2S amplifier — all behind a custom full-screen background image loaded from flash.
+
 Exact model: https://github.com/VIEWESMART/UEDX80480070ESP32-7inch-Touch-Display
 https://www.aliexpress.us/item/3256807528358359.html?spm=a2g0o.order_list.order_list_main.10.5da81802e2ZPok&gatewayAdapt=glo2usa
+
 ---
 
 ## Features
