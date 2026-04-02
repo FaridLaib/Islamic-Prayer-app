@@ -188,5 +188,5 @@ Any standard mono or stereo MP3 works. Shorter files (under ~2 MB) load faster f
 Settings are stored in NVS and survive future firmware updates (as long as the NVS partition is not erased).
 
 
-![Display](images/IMG_3950.PNG)
+![Display](Images/IMG_3950.PNG)
 
